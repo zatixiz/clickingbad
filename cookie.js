@@ -1,0 +1,1 @@
+alert(encodeURI(document.cookie));
